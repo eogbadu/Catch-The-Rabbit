@@ -1,12 +1,10 @@
 /********************************************************************
  ** File:      Proj1.cpp
- ** Project:   CMSC 202 Project 1, Fall 2019
  ** Author:    Ekele Ogbadu
  ** Date:      25 Sep 2019
- ** Section:   
  ** Email:     eogbadu1@umbc.edu
  **
- ** This file contains the main driver program for project 1.
+ ** This file contains the main driver program chase the rabbit.
  ** This program is a simple game where a farmer chases a 
  ** rabbit. On each turn, the rabbit can either move in a 
  ** random direction or stay where they are.
